@@ -8,7 +8,7 @@ This repository contains a machine learning project to predict whether a passeng
 .
 ├── README.md
 └── task_1
-    ├── task_1.ipynb       # jupyter notebook with model + EDA
+    ├── task_1.ipynb       # colab notebook with model + EDA
     └── task_1.md           # Documentation & explanation
 ```
 
